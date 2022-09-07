@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data_title">
+        <item>Braga</item>
+        <item>Dusun Bambu</item>
+        <item>Gunung Putri</item>
+        <item>Kawah Putih</item>
+        <item>Orchid Forest</item>
+        <item>Ranca Upas</item>
+        <item>Taman Hutan Raya</item>
+        <item>Tangkuban Perahu</item>
+        <item>The Great Asia Afrika</item>
+        <item>The Lodge Maribaya</item>
+    </string-array>
+
+    <string-array name="data_location">
+        <item>Braga, Kec. Sumur Bandung</item>
+        <item>Kertawangi, Kec. Cisarua</item>
+        <item>Mukapayung, Kec. Cililin</item>
+        <item>Sugihmukti, Kec. Pasirjambu</item>
+        <item>Cikole, Kec. Lembang</item>
+        <item>Patengan, Kec. Rancabali</item>
+        <item>Ciburial, Kec. Cimenyan</item>
+        <item>Cicadas, Kec. Sagalaherang</item>
+        <item>Gudangkahuripan, Kec. Lembang</item>
+        <item>Cibodas, Kec. Lembang</item>
+    </string-array>
+
+    <integer-array name="data_image">
+        <item>@drawable/braga</item>
+        <item>@drawable/dusun_bambu</item>
+        <item>@drawable/gunung_putri</item>
+        <item>@drawable/kawah_putih</item>
+        <item>@drawable/orchid_forest</item>
+        <item>@drawable/ranca_upas</item>
+        <item>@drawable/tahura</item>
+        <item>@drawable/tangkuban_perahu</item>
+        <item>@drawable/the_great_asia</item>
+        <item>@drawable/the_lodge_maribaya</item>
+    </integer-array>
+
+    <string-array name="data_upload">
+        <item>12.04.21</item>
+        <item>11.07.22</item>
+        <item>02.09.22</item>
+        <item>12.11.21</item>
+        <item>01.11.22</item>
+        <item>30.04.21</item>
+        <item>02.09.22</item>
+        <item>04.01.22</item>
+        <item>01.06.22</item>
+        <item>03.09.22</item>
+    </string-array>
+
+    <string-array name="data_source">
+        <item>ayobandung</item>
+        <item>nativeindonesia</item>
+        <item>travelspromo</item>
+        <item>wisataidn</item>
+        <item>travelspromo</item>
+        <item>klook</item>
+        <item>travelspromo</item>
+        <item>pikniek</item>
+        <item>travelspromo</item>
+        <item>travelspromo</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Braga adalah salah satu andalan destinasi wisata di kota Bandung. Destinasi ini penuh akan makna sejarah khususnya kisah masa lampau Jalan Braga.\nSejak dulu, wisata kota Jalan Braga kesohor dan tak pernah sepi menarik perhatian. Bahkan kini, jantung Kota Bandung itu selalu dipadati berbagai aktivitas muda-mudi baik dari Bandung maupun pelancong domestik dan mancanegara, dari pagi hingga malam tiba.\nPadahal, sejarah mencatat penamaan Jalan Braga berkat proses dinamika ketika Belanda menjajah Indonesia, terkhusus di Bandung. Sejak era kolonial Belanda, Jalan Braga ini dijadikan sebagai jalur lalu lintas warga dan angkutan berbagai hasil bumi yang diangkut oleh pedati. Karena sering dilalui pedati, jalan tersebut sempat dijuluki sebagai Jalan Pedati atau Karrenweg.</item>
+        <item>Dusun Bambu Bandung mulai dikenal publik sekitar awal tahun 2014. Dari awal beroperasi, langsung menyedot banyak pengunjung. Wajar saja sih, hal yang ditawarkan oleh tempat ini terhitung baru dan membawa suasana segar.\n Dulu, tempat wisata di Lembang rasanya seperti itu-itu saja. Keberadaan Dusun Bambu membawa pilihan suasana baru bagi wisatawan yang berkunjung ke Bandung. Area dusun bambu sendiri terhitung luas, dan di tata dengan baik. Tersedia area kuliner, restoran unik, berbagai permainan, tempat menginap berupa villa dan glamping, dan juga taman terbuka yang luas. Semuanya terkonsep dengan baik.</item>
+        <item>Mendengar kicauan burung, memasang hammock, bersantai bersama teman. Beberapa hal yang bisa dilakukan di kawasan wisata ini. Aktivitas-aktivitas yang terkait dengan kegiatan alam adalah menu utama bagi wisatawan. Untuk mencapai puncak, waktu yang dibutuhkan kurang lebih sekitar 30 menit. Tentu ini disesuaikan dengan kemampuan dan kondisi fisik masing-masing.\n Jalur yang dilewati untuk sampai ke puncak cukup bersahabat bagi pendaki, khususnya yang pemula. Medan yang akan dilewati cukup menanjak namun tetap tidak menyulitkan. Disarankan untuk tidak naik terlalu siang, karena ketika sampai di puncak matahari tepat di atas tanpa ada pepohonan yang menghalangi. Salah satu aktivitas yang cukup di gemari di kawasan wisata adalah berkemah. Suasana hutan dan udara dingin di ketinggian 1587 mdpl akan menemani pengunjung selama berkemah. Untuk peralatan kemah seperti tenda, lampu dan peralatan masak bisa dibawa masing-masing.</item>
+        <item>Kawah putih ciwidey terkenal dengan warna airnya yang putih. Sebenarnya warna putih dari kawah ini bukan berasal dari air yang ada di atas permukaan. Namun, warna putih pada kawah ini berasal dari unsur lain yang ada di dalam tanah yang kemudian bercampur dengan belerang.\nAnda akan melihat warna putih kehijauan pada bagian air. Struktur dan tekstur dari lapisan dinding kawah ini memang cukup unik. Apalagi pembentukan kawah ini juga berasal dari letusan gunung Patuha yang sangat besar. Banyak pengunjung yang menjadikan tempat ini sebagai tujuan utama wisata saat liburan tiba.</item>
+        <item>Orchid Forest Cikole Lembang sudah berdiri sejak Agustus tahun 2017. Tempat ini merupakan taman anggrek terluas di Indonesia. Berada di tengah kawasan hutan lindung dan terbentang seluas 12 hektar. Setidaknya terdapat 157 jenis bunga anggrek beraneka macam dikembangkan di sini.\nOrchid Forest Cikole Bandung memfokuskan diri untuk memperkenalkan dan membudidayakan berbagai tanaman anggrek. Menggunakan metode lokal maupun internasional. Spesies Anggreknya tidak hanya berasal dari Indonesia yang memang merupakan negara kedua terbanyak memiliki varian anggrek. Tanaman anggrek di Orchid Forest juga berasal dari negara lain, seperti Venezuela, Argentina, Filipina, Peru, dan Amerika serikat.</item>
+        <item>Ranca Upas memang jadi tempat wisata di Bandung yang naik daun banget dalam beberapa tahun terakhir, karena tiga alasan: panorama alamnya yang bikin kamu merasa di dunia berbeda, penangkaran rusanya yang menyenangkan, dan kabut paginya yang bikin foto–foto kamu di sini instagramable banget!.\nRanca Upas yang terletak di Ciwidey ini adalah salah satu tempat berkemah paling populer di sekitar Bandung, jadi enggak heran kalau ini adalah salah satu aktivitas yang wajib dicoba di Ranca Upas juga!.\nTak punya tenda dan perlengkapan berkemah lainnya? Kamu bisa sewa tenda kemah atau camping di Ranca Upas. Dari tenda ukuran kecil (2–3 orang) sampai ukuran besar (40 orang) bisa kamu sewa di sini. Pihak Kampung Cai Ranca Upas juga menyewakan perlengkapan berkemah lainnya seperti sleeping bag, matras, kompor, bahkan pisau lipat.</item>
+        <item>Jalan Dago adalah salah satu tempat yang cukup terkenal di Kota Bandung. Selain banyaknya distro, kafe, dan beberapa hotel ternama juga tempat wisata yaitu Taman Hutan Raya Djuanda Bandung. Terkenal juga dengan sebutan THR Djuanda atau Tahura Djuanda. Luas hutan yang mencapai 590 hektar membentang dari kawasan Pakar hingga Maribaya.\nBerada di ketinggian antara 770 mdpl hingga 1330 mdpl. Tidak kurang dari 2500 jenis tanaman tumbuh di berkembang di Taman Hutan Raya Djuanda. Tahura Djuanda merupakan kawasan konservasi yang memadukan alam sekunder dengan hutan tanaman. Suasana hutan yang sangat alami ditambah dengan beberapa objek wisata menarik menjadi daya pikat tersendiri.</item>
+        <item>Ketika sedang memutuskan untuk mengunjungi tempat wisata di Lembang Bandung tak lengkap rasanya jika tak mendatangi objek wisata Tangkuban Perahu. Pemandangan yang disuguhkan mampu menghipnotis siapa saja yang mengunjunginya.\nObjek wisata ini menyimpan banyak sekali keindahan yang selalu berhasil membuat orang takjub dan selalu ingin mengunjunginya. Gunung Tangkuban Perahu masih tergolong gunung berapi aktif.\nNamun berdasarkan penelitian, gunung ini terbentuk akibat dari letusan Gunung Sunda Purba yang meledak hebat sekitar 50.000 tahun yang lalu. Gunung ini pernah meletus beberapa kali. Salah satu tempat wisata di Lembang ini memiliki tiga kawah terkenal. Gunung yang memiliki ketinggian 2.084 meter di atas permukaan laut ini memiliki sembilan kawah.</item>
+        <item>Kota Bandung tampaknya tidak pernah kehabisan ide kreatif dalam mengembangkan destinasi wisata. Berbagai tujuan berlibur tersedia di sini, mulai dari wisata kuliner, sejarah, hingga edukasi. Kemasannya pun dengan cara yang unik dan menarik, seperti yang ada di The Great Asia Africa. Kawasan wisata teranyar di Lembang ini menawarkan pengalaman menjelajahi beberapa negara di dua benua, selaras dengan namanya.\nSelain menikmati keindahan bangunan, pengunjung The Great Asia Africa juga bisa mencicipi kuliner khas tiap negara atau mencoba pakaian tradisionalnya. Kawasan ini juga tidak jarang mengadakan acara kebudayaan negara terkait, mengenalkan tarian atau proses pembuatan kuliner. Hingga saat ini, sudah ada lima area negara dari dua benua yang siap menyambut.</item>
+        <item>The Lodge Maribaya adalah tempat wisata yang berkonsep Instagramable di daerah wisata Lembang Kabupaten Bandung Barat. The Lodge Lembang memiliki pemandangan Alam yang sangat eksotis dengan jejeran pohon pinusnya. Hawanya yang sejuk sangat mendukung kegiatan pariwisata di daerah ini.\nDengan konsep wisata yang instagramable, The Lodge Maribaya hadir untuk menjawab tantangan tempat wisata kekinian. Namun konsep wisata yang kekinian, tetap memerhatikan keasrian lingkungan dan SDM warga sekitar. Jadi kehadiran tempat wisata ini secara tidak langsung membawa dampak juga bagi warga sekitar. Dampaknya pun sangat luas hingga mencakup berbagai bidang, terutama bidang ekonomi masyarakat sekitar.\nHingga pada tahun 2016, tempat ini viral. Hampir semua pengguna medsos tahun dan ingin berkunjung ke tempat ini. Para pengunjung rata-rata adalah orang-orang yang memang eksis di media sosial. Latar pemandangan dan suasana tempat ini, sangat cocok untuk dijadikan tempat nongkrong dan eksis di dunia maya.</item>
+    </string-array>
+
+</resources>
