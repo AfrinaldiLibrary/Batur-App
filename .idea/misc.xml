@@ -4,10 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Project/Batur/app/src/main/res/drawable/background_round.xml" value="0.1" />
+        <entry key="..\:/Project/Batur/app/src/main/res/drawable/bg_button.xml" value="0.1" />
+        <entry key="..\:/Project/Batur/app/src/main/res/drawable/bg_rounded.xml" value="0.1" />
+        <entry key="..\:/Project/Batur/app/src/main/res/drawable/ic_location.xml" value="0.1" />
+        <entry key="..\:/Project/Batur/app/src/main/res/drawable/ic_share.xml" value="0.1" />
         <entry key="..\:/Project/Batur/app/src/main/res/drawable/progress_bar.xml" value="0.1" />
-        <entry key="..\:/Project/Batur/app/src/main/res/layout/activity_about.xml" value="0.1" />
-        <entry key="..\:/Project/Batur/app/src/main/res/layout/activity_main.xml" value="0.136" />
-        <entry key="..\:/Project/Batur/app/src/main/res/layout/activity_splash.xml" value="0.264" />
+        <entry key="..\:/Project/Batur/app/src/main/res/layout/activity_about.xml" value="0.2" />
+        <entry key="..\:/Project/Batur/app/src/main/res/layout/activity_detail.xml" value="0.2" />
+        <entry key="..\:/Project/Batur/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Project/Batur/app/src/main/res/layout/activity_splash.xml" value="0.176" />
         <entry key="..\:/Project/Batur/app/src/main/res/layout/item_tourism.xml" value="0.17063492063492064" />
       </map>
     </option>

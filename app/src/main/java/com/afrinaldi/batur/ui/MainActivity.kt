@@ -1,9 +1,9 @@
 package com.afrinaldi.batur.ui
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
-import androidx.recyclerview.widget.LinearLayoutManager
+import android.widget.ImageView
 import androidx.recyclerview.widget.RecyclerView
 import com.afrinaldi.batur.R
 import com.afrinaldi.batur.adapter.ListTourismAdapter
@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
     private val dataTourism = ArrayList<DataTourismModel>()
     private var tourismAdapter: ListTourismAdapter? = null
     private lateinit var rvContent: RecyclerView
+    private lateinit var ivAbout: ImageView
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -26,11 +27,31 @@ class MainActivity : AppCompatActivity() {
             tourismAdapter?.insertData(dataTourism)
         }
 
-        Log.e("data", tourismAdapter.toString())
-
         rvContent = findViewById(R.id.rv_content)
+        ivAbout = findViewById(R.id.about_page)
+
         rvContent.setHasFixedSize(true)
         rvContent.adapter = tourismAdapter
+
+        tourismAdapter?.setOnItemClickCallback(object : ListTourismAdapter.OnItemClickCallback {
+            override fun onItemClicked(data: DataTourismModel) {
+                Intent(this@MainActivity, DetailActivity::class.java).also {
+                    it.putExtra(DetailActivity.EXTRA_TITLE, data.title)
+                    it.putExtra(DetailActivity.EXTRA_DESC, data.description)
+                    it.putExtra(DetailActivity.EXTRA_IMAGE, data.image)
+                    it.putExtra(DetailActivity.EXTRA_LOCATION, data.location)
+                    it.putExtra(DetailActivity.EXTRA_UPLOAD, data.upload)
+                    it.putExtra(DetailActivity.EXTRA_SOURCE, data.source)
+                    startActivity(it)
+                }
+            }
+        })
+
+        ivAbout.setOnClickListener {
+            Intent(this, AboutActivity::class.java).also {
+                startActivity(it)
+            }
+        }
     }
 
     private val dataTourisms: ArrayList<DataTourismModel>
